@@ -60,6 +60,8 @@
 
 银河录像局提供多种主流海外流媒体账号的合租服务，包括Netflix、YouTube、Disney+、Spotify、iCloud+、HBO Max、Prime Video、TV伴侣等。大家可以根据自己的观看习惯和设备类型，选择不同的合租服务和套餐。银河录像局支持多地区内容解锁、4K高清播放和PIN码保护，能够满足家庭或个人的长期稳定使用需求。
 
+更多详情请查看：《<a href="https://github.com/anyofai/netflix-hezu">奈飞合租</a>》《<a href="https://github.com/anyofai/spotify-hezu">Spotify合租</a>》《<a href="https://github.com/anyofai/youtube-hezu">YouTube合租</a>》
+
 ### 二、AI工具账号购买与合租
 
 ![](https://raw.githubusercontent.com/anyofai/nf-video/refs/heads/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-%E5%90%88%E7%A7%9F%E5%B9%B3%E5%8F%B0-7.png)
@@ -77,8 +79,6 @@
 ![](https://raw.githubusercontent.com/anyofai/nf-video/refs/heads/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-%E5%90%88%E7%A7%9F%E5%B9%B3%E5%8F%B0-9.png)
 
 银河录像局还提供多种增值服务，包括Apple ID账号（支持美区、港区、日区、台区、韩区、土区）、Google账号、Office 365账号、多邻国Plus合租账号、Spotify账号注册等。
-
-如果你想获取更详细的使用教程和操作指南，可以查看以下相关文章：《<a href="https://github.com/anyofai/chatgpt">ChatGPT账号注册</a>》《<a href="https://github.com/anyofai/anyofai.github.io">ChatGPT Plus购买</a>》《<a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT Plus合租</a>》《<a href="https://github.com/anyofai/chatgpt-plus-recharge">ChatGPT Plus代充值</a>》《<a href="https://github.com/anyofai/claude-pro">Claude Pro购买</a>》《<a href="https://github.com/anyofai/claude-pro-hezu">Claude Pro合租</a>》《<a href="https://github.com/anyofai/claude-pro-recharge">Claude Pro代充值</a>》《<a href="https://github.com/anyofai/midjourney-hezu">Midjourney合租</a>》《<a href="https://github.com/anyofai/poe">Poe账号购买</a>》《<a href="https://github.com/anyofai/x-twitter">SuperGrok合租</a>》《<a href="https://github.com/anyofai/netflix-hezu">奈飞合租</a>》《<a href="https://github.com/anyofai/spotify-hezu">Spotify合租</a>》《<a href="https://github.com/anyofai/youtube-hezu">YouTube合租</a>》等。
 
 ## 银河录像局怎么样？银河录像局靠谱吗？
 
