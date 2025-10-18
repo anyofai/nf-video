@@ -122,6 +122,8 @@
 
 在基础服务方面，星际放映厅的运营较为规范，采用自动化系统实现即时开通，支持支付宝付款，并提供全天候客服和30天售后保障。如果用户在使用过程中遇到技术问题，可以联系在线客服协商处理。此外，星际放映厅强调通过正规海外支付渠道操作，杜绝黑卡和违规交易，由经验丰富的团队处理订单，逐步在业内树立了稳定、安全的形象。
 
+<p align="center"><a href="https://www.naifeistation.com/i/3wLPME">访问星际放映厅官网</a></p>
+
 ### 备选合租平台（二）：<a href="https://universalbus.cn/?s=ofZoHZpnhr">环球巴士</a>
 
 ![](https://raw.githubusercontent.com/anyofai/nf-video/refs/heads/main/image/%E7%8E%AF%E7%90%83%E5%B7%B4%E5%A3%AB-%E5%90%88%E7%A7%9F%E5%B9%B3%E5%8F%B0.png)
@@ -129,6 +131,8 @@
 环球巴士（UniversalBus）成立于2019年7月，前身为“奈飞站”（NetflixStation），由杭州十全信息科技有限公司运营，也是一家老牌的流媒体合租平台。2023年2月，环球巴士完成重大改版，从最初的奈飞合租服务拓展至近20种服务，逐步发展为一体化的综合合租平台。
 
 环球巴士的业务范围相对广泛，涵盖Netflix、Disney+、Spotify、YouTube、Apple TV+、NBA赛事直播等流媒体账号合租，同时也提供ChatGPT Plus、Midjourney、Poe会员、Claude Pro等AI工具相关服务。环球巴士采用自动化交付系统，下单后即可使用，支持支付宝支付，整体价格相对实惠。环球巴士提供“翻车必赔”的安全保障机制，在服务稳定性和售后响应方面积累了一定的口碑，并在知乎、B站、抖音等平台拥有较高的曝光度。
+
+<p align="center"><a href="https://universalbus.cn/?s=ofZoHZpnhr">访问环球巴士官网</a></p>
 
 整体来看，星际放映厅与环球巴士虽然在规模和业务体系上与银河录像局相比还有一定差距，但作为行业内较为稳定的正规合租平台，同样具备合法备案和相对完善的服务体系。如果你希望对多个合租平台进行对比选择，这两家也值得关注和了解。
 
