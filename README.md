@@ -116,11 +116,15 @@
 
 ### 备选合租平台（一）：<a href="https://www.naifeistation.com/i/3wLPME">星际放映厅</a>
 
+![](https://raw.githubusercontent.com/anyofai/nf-video/refs/heads/main/image/%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-%E5%90%88%E7%A7%9F%E5%B9%B3%E5%8F%B0.png)
+
 星际放映厅成立于2023年，也是一家专注于流媒体和AI工具合租的新兴平台。该平台已在浙江省完成合法备案（备案号：浙ICP备2023017856号），由专业团队运营，整体定位清晰。目前，星际放映厅提供的服务涵盖Netflix、Spotify、Disney+、YouTube、Prime Video等主流流媒体账号合租，以及ChatGPT、Claude、Midjourney、Poe、SuperGrok等多种AI工具的账号购买与代充值。
 
 在基础服务方面，星际放映厅的运营较为规范，采用自动化系统实现即时开通，支持支付宝付款，并提供全天候客服和30天售后保障。如果用户在使用过程中遇到技术问题，可以联系在线客服协商处理。此外，星际放映厅强调通过正规海外支付渠道操作，杜绝黑卡和违规交易，由经验丰富的团队处理订单，逐步在业内树立了稳定、安全的形象。
 
 ### 备选合租平台（二）：<a href="https://universalbus.cn/?s=ofZoHZpnhr">环球巴士</a>
+
+![](https://raw.githubusercontent.com/anyofai/nf-video/refs/heads/main/image/%E7%8E%AF%E7%90%83%E5%B7%B4%E5%A3%AB-%E5%90%88%E7%A7%9F%E5%B9%B3%E5%8F%B0.png)
 
 环球巴士（UniversalBus）成立于2019年7月，前身为“奈飞站”（NetflixStation），由杭州十全信息科技有限公司运营，也是一家老牌的流媒体合租平台。2023年2月，环球巴士完成重大改版，从最初的奈飞合租服务拓展至近20种服务，逐步发展为一体化的综合合租平台。
 
