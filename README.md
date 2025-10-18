@@ -161,7 +161,7 @@
 * <a href="https://github.com/anyofai/midjourney">Midjourney订阅</a>：如何开通Midjourney会员？如何购买Midjourney原生独立帐号？
 * <a href="https://github.com/anyofai/poe">Poe订阅</a>：如何充值购买Poe账号？支持GPT-5、Claude Opus/Sonnet 4、Grok-4、Gemini-2.5 Pro等大模型！
 * <a href="https://github.com/anyofai/x-twitter">SuperGrok订阅</a>：如何合租SuperGrok会员？如何购买SuperGrok帐号？如何为SuperGrok代充值？
-* 
+
 * <a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT Plus合租</a>：支持ChatGPT-5、DeepSeek-R1、Grok-4和Gemini-2.5 Pro等大模型！每月仅需27元！
 * <a href="https://github.com/anyofai/claude-pro-hezu">Claude Pro合租</a>：无需科学上网，镜像直连，会话隔离，保障隐私安全，无账号被封风险！每月仅需8元！
 * <a href="https://github.com/anyofai/midjourney-hezu">Midjourney合租</a>：提供国内镜像直连、官方标准会员合租、官方Pro会员合租等三种服务！每月仅需27元！
