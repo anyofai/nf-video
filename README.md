@@ -14,13 +14,13 @@
 
 在众多合租平台中，银河录像局的使用流程十分简单明了，新用户通常只需几分钟就能完成下单并开始使用。无论你是合租流媒体账号，还是购买AI工具账号，整个过程都非常清晰直观，没有多余的繁琐步骤，对于第一次接触合租平台的用户来说也非常友好。
 
-银河录像局优惠码：大家在通过银河录像局购买相关服务时，使用优惠码“ANYOFAI”可享受全场九折优惠。该优惠码适用于平台上的所有服务，包括流媒体合租、AI工具账号购买与代充值，以及各类增值服务等。无论你是购买短期套餐（如一天体验），还是购买长期套餐（如年付套餐），使用银河录像局优惠码“ANYOFAI”都能直接节省一笔费用，非常划算。
+银河录像局优惠码：大家在通过银河录像局购买相关服务时，使用优惠码“ANYOFAI”可享受全场九折优惠。该优惠码适用于平台上的所有服务，包括流媒体合租、AI工具账号购买与代充值，以及各类增值服务等。无论你是购买短期套餐(如一天体验)，还是购买长期套餐(如年付套餐)，使用银河录像局优惠码“ANYOFAI”都能直接节省一笔费用，非常划算。
 
 接下来，我们将以ChatGPT Plus合租为例，为大家详细介绍银河录像局的实际使用流程。
 
 ### 第一步： 打开银河录像局官网，点击右上角“登录/注册”按钮，并使用手机号或微信登录。
 
-* 银河录像局官网：https://nf.video/BTgSc
+* 银河录像局官网：<a href="https://nf.video/BTgSc">https://nf.video/BTgSc</a>
 
 ### 第二步： 点击首页上的“AI服务”，然后选择“GPT Plus”选项。
 
@@ -58,7 +58,7 @@
 
 银河录像局还提供多种增值服务，包括Apple ID账号（支持美区、港区、日区、台区、韩区、土区）、Google账号、Office 365账号、多邻国Plus合租账号、Spotify账号注册等。
 
-如果你想获取更详细的使用教程和操作指南，可以查看以下相关文章：《ChatGPT账号注册》《ChatGPT Plus购买》《ChatGPT Plus合租》《ChatGPT Plus代充值》《Claude Pro购买》《Claude Pro合租》《Claude Pro代充值》《Midjourney合租》《Poe账号购买》《奈飞合租》《Spotify合租》《YouTube合租》等。
+如果你想获取更详细的使用教程和操作指南，可以查看以下相关文章：《<a href="https://github.com/anyofai/chatgpt">ChatGPT账号注册</a>》《<a href="https://github.com/anyofai/anyofai.github.io">ChatGPT Plus购买</a>》《<a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT Plus合租</a>》《<a href="https://github.com/anyofai/chatgpt-plus-recharge">ChatGPT Plus代充值</a>》《<a href="https://github.com/anyofai/claude-pro">Claude Pro购买</a>》《<a href="https://github.com/anyofai/claude-pro-hezu">Claude Pro合租</a>》《<a href="https://github.com/anyofai/claude-pro-recharge">Claude Pro代充值</a>》《<a href="https://github.com/anyofai/midjourney-hezu">Midjourney合租</a>》《<a href="https://github.com/anyofai/poe">Poe账号购买</a>》《<a href="https://github.com/anyofai/x-twitter">SuperGrok合租</a>》《<a href="https://github.com/anyofai/netflix-hezu">奈飞合租</a>》《<a href="https://github.com/anyofai/spotify-hezu">Spotify合租</a>》《<a href="https://github.com/anyofai/youtube-hezu">YouTube合租</a>》等。
 
 ## 银河录像局怎么样？银河录像局靠谱吗？
 
