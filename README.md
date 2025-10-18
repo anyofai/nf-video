@@ -157,7 +157,7 @@
 ## 银河录像局(最佳合租平台)相关的其他文章：
 
 * <a href="https://github.com/anyofai/anyofai.github.io">ChatGPT Plus开通</a>：如何购买/合租/充值ChatGPT Plus账号？国内如何使用GPT-5-Codex？
-* <a href="https://github.com/anyofai/claude-pro">Claude Pro订阅</a>：如何注册Claude账号？如何购买Claude Pro账号？国内如何使用Claude Code？
+* <a href="https://github.com/anyofai/claude-pro">Claude Pro订阅</a>：如何注册Claude账号？如何购买/合租/充值Claude Pro账号？国内如何使用Claude Code？
 * <a href="https://github.com/anyofai/midjourney">Midjourney订阅</a>：如何开通Midjourney会员？如何购买Midjourney原生独立帐号？
 * <a href="https://github.com/anyofai/poe">Poe订阅</a>：如何充值购买Poe账号？支持GPT-5、Claude Opus/Sonnet 4、Grok-4、Gemini-2.5 Pro等大模型！
 * <a href="https://github.com/anyofai/x-twitter">SuperGrok订阅</a>：如何合租SuperGrok会员？如何购买SuperGrok帐号？如何为SuperGrok代充值？
