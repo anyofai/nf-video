@@ -66,7 +66,7 @@
 
 ![](https://raw.githubusercontent.com/anyofai/nf-video/refs/heads/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-%E5%90%88%E7%A7%9F%E5%B9%B3%E5%8F%B0-7.png)
 
-银河录像局也提供多种AI工具账号的购买与合租服务，包括ChatGPT Plus合租、ChatGPT Plus原生独立账号、Midjourney合租、Nano banana合租、Codex中转、Claude pro合租、Claude Code中转、Runway原生独立账号、Adobe团队版全家桶、SuperGrok原生独立账号、SuperGrok原生独立账号、ChatGPT3.5账号、Luma合租等。
+银河录像局也提供多种AI工具账号的购买与合租服务，包括ChatGPT Plus合租、ChatGPT Plus原生独立账号、Midjourney合租、Nano banana合租、Codex中转、Claude pro合租、Claude Code中转、Runway原生独立账号、Adobe团队版全家桶、SuperGrok合租、SuperGrok原生独立账号、ChatGPT3.5账号、Luma合租等。
 
 更多详情请查看：《<a href="https://github.com/anyofai/chatgpt">ChatGPT账号注册</a>》《<a href="https://github.com/anyofai/anyofai.github.io">ChatGPT Plus购买</a>》《<a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT Plus合租</a>》《<a href="https://github.com/anyofai/claude-pro">Claude Pro购买</a>》《<a href="https://github.com/anyofai/claude-pro-hezu">Claude Pro合租</a>》《<a href="https://github.com/anyofai/midjourney-hezu">Midjourney合租</a>》《<a href="https://github.com/anyofai/poe">Poe账号购买</a>》
 
