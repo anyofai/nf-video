@@ -156,12 +156,12 @@
 
 ## 银河录像局(最佳合租平台)相关的其他文章：
 
-* <a href="https://github.com/anyofai/anyofai.github.io">ChatGPT Plus开通</a>：如何购买ChatGPT Plus账号？如何使用GPT-5-Codex？
-* <a href="https://github.com/anyofai/claude-pro">Claude Pro订阅</a>：包括Claude注册、Claude Pro帐号购买、Claude Pro代充值、Claude Code教程等。
+* <a href="https://github.com/anyofai/anyofai.github.io">ChatGPT Plus开通</a>：如何购买/合租/充值ChatGPT Plus账号？国内如何使用GPT-5-Codex？
+* <a href="https://github.com/anyofai/claude-pro">Claude Pro订阅</a>：如何注册Claude账号？如何购买Claude Pro账号？国内如何使用Claude Code？
 * <a href="https://github.com/anyofai/midjourney">Midjourney订阅</a>：如何开通Midjourney会员？如何购买Midjourney原生独立帐号？
-* <a href="https://github.com/anyofai/poe">Poe订阅</a>：国内充值购买Poe账号教程，支持GPT-5、Claude Opus/Sonnet 4、Grok-4、Gemini-2.5 Pro等大模型！
-* <a href="https://github.com/anyofai/x-twitter">SuperGrok订阅</a>：最新SuperGrok订阅教程，包括SuperGrok合租、SuperGrok帐号购买、SuperGrok代充值等。
-
+* <a href="https://github.com/anyofai/poe">Poe订阅</a>：如何充值购买Poe账号？支持GPT-5、Claude Opus/Sonnet 4、Grok-4、Gemini-2.5 Pro等大模型！
+* <a href="https://github.com/anyofai/x-twitter">SuperGrok订阅</a>：如何合租SuperGrok会员？如何购买SuperGrok帐号？如何为SuperGrok代充值？
+* 
 * <a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT Plus合租</a>：支持ChatGPT-5、DeepSeek-R1、Grok-4和Gemini-2.5 Pro等大模型！每月仅需27元！
 * <a href="https://github.com/anyofai/claude-pro-hezu">Claude Pro合租</a>：无需科学上网，镜像直连，会话隔离，保障隐私安全，无账号被封风险！每月仅需8元！
 * <a href="https://github.com/anyofai/midjourney-hezu">Midjourney合租</a>：提供国内镜像直连、官方标准会员合租、官方Pro会员合租等三种服务！每月仅需27元！
