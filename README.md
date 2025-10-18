@@ -173,3 +173,5 @@
 * <a href="https://github.com/anyofai/chatgpt-plus-recharge">ChatGPT Plus代充值</a>：推荐最稳定可靠的ChatGPT Plus代充值平台，价格优惠，信誉有保障。
 * <a href="https://github.com/anyofai/claude-pro-recharge">Claude Pro代充值</a>：提供纯人工充值服务，价格实惠，24小时在线客服，独享Claude Pro原生账号！
 * <a href="https://github.com/anyofai/video-site">国外视频网站</a>：本文将会推荐五个国外付费视频网站、五个国外免费视频网站和十个海外免费电影网站！
+
+* * <a href="https://github.com/anyofai/nf-video">银河录像局</a>：2025年最靠谱的AI工具和流媒体合租平台！
