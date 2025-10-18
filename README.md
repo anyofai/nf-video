@@ -74,7 +74,7 @@
 
 ![](https://raw.githubusercontent.com/anyofai/nf-video/refs/heads/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-%E5%90%88%E7%A7%9F%E5%B9%B3%E5%8F%B0-8.png)
 
-银河录像局还提供热门AI工具账号代充值服务，目前支持的主要项目包括ChatGPT Plus代充值（支持24小时自动化自助充值）和SuperGrok代充值。其中，ChatGPT Plus代充值服务非常适合已拥有ChatGPT账号并希望继续使用原有账号的用户。此外，银河录像局提供的ChatGPT Plus代充值服务均通过官方渠道完成，保证安全合规。如果充值失败，平台会提供全额退款或重新为用户处理。
+银河录像局还提供热门AI工具账号代充值服务，目前支持的主要项目包括ChatGPT Plus代充值（**支持24小时自动化自助充值**）和SuperGrok代充值。其中，ChatGPT Plus代充值服务非常适合已拥有ChatGPT账号并希望继续使用原有账号的用户。此外，银河录像局提供的ChatGPT Plus代充值服务均通过官方渠道完成，保证安全合规。如果充值失败，平台会提供全额退款或重新为用户处理。
 
 更多详情请查看：《<a href="https://github.com/anyofai/chatgpt-plus-recharge">ChatGPT Plus代充值</a>》《<a href="https://github.com/anyofai/x-twitter">SuperGrok代充值</a>》
 
