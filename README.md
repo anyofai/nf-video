@@ -33,23 +33,23 @@
 
 * 银河录像局官网：<a href="https://nf.video/BTgSc">https://nf.video/BTgSc</a>
 
-![最佳合租平台|通过银河录像局合租ChatGPT Plus会员第一步：打开银河录像局官网，点击右上角“登录/注册”按钮，并使用手机号或微信登录](https://raw.githubusercontent.com/anyofai/nf-video/refs/heads/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-%E5%90%88%E7%A7%9F%E5%B9%B3%E5%8F%B0-1.png)
+![最佳合租平台|通过银河录像局合租ChatGPT Plus会员第一步：打开银河录像局官网，点击右上角“登录/注册”按钮，并使用手机号或微信登录](https://raw.githubusercontent.com/anyofai/nf-video/refs/heads/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-%E5%90%88%E7%A7%9F%E5%B9%B3%E5%8F%B0-1-1.png)
 
 ### 第二步： 点击首页上的“AI服务”，然后选择“GPT Plus”选项。
 
-![最佳合租平台|通过银河录像局合租ChatGPT Plus会员第二步：点击首页上的“AI服务”，然后选择“GPT Plus”选项](https://raw.githubusercontent.com/anyofai/nf-video/refs/heads/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-%E5%90%88%E7%A7%9F%E5%B9%B3%E5%8F%B0-2.png)
+![最佳合租平台|通过银河录像局合租ChatGPT Plus会员第二步：点击首页上的“AI服务”，然后选择“GPT Plus”选项](https://raw.githubusercontent.com/anyofai/nf-video/refs/heads/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-%E5%90%88%E7%A7%9F%E5%B9%B3%E5%8F%B0-2-1.png)
 
 ### 第三步： 选择服务分类和时长，并点击“支付宝支付”按钮。
 
-注意：关于ChatGPT Plus会员，银河录像局提供三种服务类型，分别为“银河AI”（即ChatGPT Plus镜像服务）、“共享会员”（ChatGPT Plus原生账号合租）和“独立会员”（ChatGPT Plus原生独立账号）。其中，“银河AI”支持使用GPT-5、GPT-4o、Grok-4、Gemini-2.5 Pro等顶级大模型。 
-
-![最佳合租平台|通过银河录像局合租ChatGPT Plus会员第三步：选择服务分类和时长，并点击“支付宝支付”按钮](https://raw.githubusercontent.com/anyofai/nf-video/refs/heads/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-%E5%90%88%E7%A7%9F%E5%B9%B3%E5%8F%B0-3.png)
-
-### 第四步： 输入银河录像局优惠码，并按系统提示完成付款。
+关于ChatGPT Plus会员，银河录像局提供三种服务类型，分别为“镜像版”（ChatGPT Plus镜像服务）、“共享会员”（ChatGPT Plus原生账号合租）和“独立会员”（ChatGPT Plus原生独立账号）。其中，“镜像版”支持使用GPT-5.1、GPT-4o、Grok-4、Gemini-2.5 Pro等顶级大模型。 
 
 注意：使用优惠码“**ANYOFAI**”可享九折优惠！
 
-![最佳合租平台|通过银河录像局合租ChatGPT Plus会员第四步：输入银河录像局优惠码，并按系统提示完成付款](https://raw.githubusercontent.com/anyofai/nf-video/refs/heads/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-%E5%90%88%E7%A7%9F%E5%B9%B3%E5%8F%B0-4.png)
+![最佳合租平台|通过银河录像局合租ChatGPT Plus会员第三步：选择服务分类和时长，并点击“支付宝支付”按钮](https://raw.githubusercontent.com/anyofai/nf-video/refs/heads/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-%E5%90%88%E7%A7%9F%E5%B9%B3%E5%8F%B0-3-1.png)
+
+### 第四步： 使用支付宝扫码完成付款。
+
+![最佳合租平台|通过银河录像局合租ChatGPT Plus会员第四步：使用支付宝扫码完成付款](https://raw.githubusercontent.com/anyofai/nf-video/refs/heads/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-%E5%90%88%E7%A7%9F%E5%B9%B3%E5%8F%B0-4-1.png)
 
 ### 第五步： 查看“车票”并开始使用ChatGPT Plus。
 
