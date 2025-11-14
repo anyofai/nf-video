@@ -53,7 +53,7 @@
 
 ### 第五步： 查看“车票”并开始使用ChatGPT Plus。
 
-注意：如果购买的是“GPT镜像版”服务，点击导航栏中的“车票”后即可看到ChatGPT Plus的使用入口；如果购买的是“独立会员”，银河录像局会为你提供一个已完成订阅充值的ChatGPT Plus账号，拿过来即可直接使用。
+注意：如果购买的是“ChatGPT Plus镜像版”服务，点击导航栏中的“车票”后即可看到ChatGPT Plus的使用入口；如果购买的是“独立会员”，银河录像局会为你提供一个已完成订阅充值的ChatGPT Plus账号，拿过来即可直接使用。
 
 ![最佳合租平台|通过银河录像局合租ChatGPT Plus会员第五步： 查看“车票”并开始使用ChatGPT Plus](https://raw.githubusercontent.com/anyofai/nf-video/refs/heads/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-%E5%90%88%E7%A7%9F%E5%B9%B3%E5%8F%B0-5.png)
 
