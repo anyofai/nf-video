@@ -1,6 +1,6 @@
 # <p align="center">银河录像局：2025年最靠谱的AI工具和流媒体合租平台！</p>
 
-<p align="center">最近更新于：2025年11月29日</p>
+<p align="center">最近更新于：2025年12月4日</p>
 
 ![银河录像局：2025年最靠谱的AI工具和流媒体合租平台](https://raw.githubusercontent.com/anyofai/nf-video/refs/heads/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-%E5%90%88%E7%A7%9F%E5%B9%B3%E5%8F%B0.png)
 
@@ -183,3 +183,5 @@
 * <a href="https://github.com/anyofai/chatgpt-plus-recharge">ChatGPT Plus代充值</a>：推荐最稳定可靠的ChatGPT Plus代充值平台，价格优惠，信誉有保障。
 * <a href="https://github.com/anyofai/claude-pro-recharge">Claude Pro代充值</a>：提供纯人工充值服务，价格实惠，24小时在线客服，独享Claude Pro原生账号！
 * <a href="https://github.com/anyofai/video-site">国外视频网站</a>：本文将会推荐五个国外付费视频网站、五个国外免费视频网站和十个海外免费电影网站！
+
+免责声明：本项目内容仅供信息参考，请遵守相关法律法规及各平台使用条款，所有操作与后果由用户自行承担。
