@@ -1,8 +1,12 @@
 # <p align="center">银河录像局：2026年最靠谱的AI工具和流媒体合租平台！</p>
 
-<p align="center">最近更新于：2026年2月26日</p>
+<p align="center">最近更新于：2026年3月2日</p>
 
 ![银河录像局：2026年最靠谱的AI工具和流媒体合租平台](https://raw.githubusercontent.com/anyofai/nf-video/refs/heads/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-%E5%90%88%E7%A7%9F%E5%B9%B3%E5%8F%B0.png)
+
+<blockquote>
+**重要提示**：除了银河录像局之外，星际放映厅也是一个非常优质的流媒体与AI工具综合平台！星际放映厅提供的服务包括：ChatGPT Plus代充值（**121元/月**）、ChatGPT Plus购买（**117元/月**）、Claude Pro代充值、Claude Pro购买、SuperGrok代充值、SuperGrok购买、Gemini Pro代充值、Gemini Pro购买、Netflix合租、Spotify合租、YouTube合租等服务！更多信息请查看：<a href="https://www.naifeistation.com/i/3wLPME">星际放映厅官网</a>！
+</blockquote>
 
 在当前这个AI工具和海外流媒体需求迅猛增长的时代，市面上出现了很多五花八门的合租平台，这些合租平台的质量也是参差不齐。对于希望长期、稳定、安全地使用ChatGPT Plus、Claude Pro、Midjourney、SuperGrok、Netflix、Disney+、YouTube、Spotify等服务的用户来说，找到一家合法合规、运营稳定、服务体验良好的合租平台至关重要。
 
