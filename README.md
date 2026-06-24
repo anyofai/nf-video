@@ -1,6 +1,6 @@
 # <p align="center">银河录像局：2026年最靠谱的AI工具和流媒体合租平台！</p>
 
-<p align="center">最近更新于：2026年4月17日</p>
+<p align="center">最近更新于：2026年6月24日</p>
 
 ![银河录像局：2026年最靠谱的AI工具和流媒体合租平台](https://raw.githubusercontent.com/anyofai/nf-video/refs/heads/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-%E5%90%88%E7%A7%9F%E5%B9%B3%E5%8F%B0.png)
 
@@ -85,7 +85,7 @@
 
 银河录像局也提供多种AI工具账号的购买与合租服务，包括ChatGPT Plus合租、ChatGPT Plus原生独立账号、Midjourney合租、Nano banana合租、Codex中转、Claude pro合租、Claude Code中转、Runway原生独立账号、Adobe团队版全家桶、SuperGrok合租、SuperGrok原生独立账号、ChatGPT3.5账号、Luma合租等。
 
-更多详情请查看：《<a href="https://github.com/anyofai/chatgpt">ChatGPT账号注册</a>》《<a href="https://github.com/anyofai/anyofai.github.io">ChatGPT Plus购买</a>》《<a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT Plus合租</a>》《<a href="https://github.com/anyofai/claude-pro">Claude Pro购买</a>》《<a href="https://github.com/anyofai/claude-pro-hezu">Claude Pro合租</a>》《<a href="https://github.com/anyofai/midjourney-hezu">Midjourney合租</a>》《<a href="https://github.com/anyofai/poe">Poe账号购买</a>》
+更多详情请查看：《<a href="https://github.com/anyofai/chatgpt">ChatGPT账号注册</a>》《<a href="https://github.com/anyofai/anyofai.github.io">ChatGPT Plus购买</a>》《<a href="https://github.com/anyofai/claude-pro">Claude Pro购买</a>》《<a href="https://github.com/anyofai/claude-pro-hezu">Claude Pro合租</a>》《<a href="https://github.com/anyofai/midjourney-hezu">Midjourney合租</a>》《<a href="https://github.com/anyofai/poe">Poe账号购买</a>》
 
 ****
 
@@ -173,9 +173,8 @@
 * <a href="https://github.com/anyofai/gemini-pro">Gemini使用教程</a>：如何购买Gemini Pro账号？如何拼车合租Gemini Pro会员？如何为Gemini Pro代充值？
 * <a href="https://github.com/anyofai/claude-pro">Claude注册</a>：如何注册Claude账号？如何购买/合租/代充Claude Pro会员？含Claude Code国内使用教程！
 * <a href="https://github.com/anyofai/x-twitter">SuperGrok订阅</a>：如何购买SuperGrok独立账号？如何合租SuperGrok账号？如何为SuperGrok代充？
-* <a href="https://github.com/anyofai/poe">Poe账号购买</a>：Poe会员支持GPT-5.4、Claude Opus 4.7、Grok-4.1、Gemini-3.1 Pro等大模型！
+* <a href="https://github.com/anyofai/poe">Poe账号购买</a>：Poe会员支持GPT-5.5、Claude Opus 4.8、Grok-4.3、Gemini-3.1 Pro等大模型！
 
-* <a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT合租</a>：支持ChatGPT-5.4、DeepSeek-R1、Grok-4.1和Gemini-3.1 Pro等大模型！每月仅需27元！
 * <a href="https://github.com/anyofai/claude-pro-hezu">Claude Code拼车</a>：无需科学上网，镜像直连，会话隔离，保障隐私安全，无账号被封风险！价格低至14元起！
 * <a href="https://github.com/anyofai/netflix-hezu">Netflix奈飞合租</a>：提供独立子账号、支持设置pin码，可访问Netflix全球影视资源，全程质保，价格低至8元起！
 * <a href="https://github.com/anyofai/youtube-hezu">YouTube合租</a>：安全有保障，可享受YouTube Premium会员所有权益！每月仅需21元！
